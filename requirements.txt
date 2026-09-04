@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+python-telegram-bot==20.3
+pandas
+numpy
+yfinance
+ta
+aiofiles
+python-dotenv
